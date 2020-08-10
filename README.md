@@ -1,2 +1,10 @@
 # apprentice-react-o-shop
-E-commerce app with react redux &amp; hooks
+
+This is an e-commerce project built in React
+
+# Running Project
+
+- Run the following commands:
+
+`yarn`
+`yarn start`
