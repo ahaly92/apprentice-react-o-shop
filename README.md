@@ -7,4 +7,5 @@ This is an e-commerce project built in React
 - Run the following commands:
 
 `yarn`
+
 `yarn start`
